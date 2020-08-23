@@ -3,8 +3,9 @@
 This project is the result of the workshop made by the comunity **ADA ITW** from Argentina, teaching women how to develop with React JS.
 The sound files were extracted from an external source and imported in the project.
 
-You can see a live version of this code here: https://codesandbox.io/s/inspiring-varahamihira-ier6t?file=/src/App.css:447-590
+You can see a [live version of this code here] (https://codesandbox.io/s/inspiring-varahamihira-ier6t?file=/src/App.css:447-590)
 
+______________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
